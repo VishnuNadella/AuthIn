@@ -1,16 +1,17 @@
 # authin
 
-A new Flutter project.
+An Authentication system for events, concerts and places where only invited people are allowed
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+* Clone the repo by copying the https link or download zip file.
+* Create a new flutter app using command: `flutter create <app-name>`
+* Replace lib folder and pubspec.yaml file.
+* In app/gradle file change minSdkVersion to 21
+* Add assets folder.
+* And execute command `flutter build apk`
+* Install the apk.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## To use the application.
+* Scan a QR code (demo codes will be provided) and decoded data will be desplayed below.
+* Press on authenticate button and respective response will be displayed.
