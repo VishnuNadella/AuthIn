@@ -10,7 +10,7 @@ An Authentication system for events, concerts and places where only invited peop
 * In app/gradle file change minSdkVersion to 21
 * Add assets folder.
 * And execute command `flutter build apk`
-* Install the apk.
+* Navigate to provided file path and install the apk.
 
 ## To use the application.
 * Scan a QR code (demo codes will be provided) and decoded data will be desplayed below.
