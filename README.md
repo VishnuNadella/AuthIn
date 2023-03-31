@@ -1,4 +1,4 @@
-# authin
+# AuthIn
 
 An Authentication system for events, concerts and places where only invited people are allowed
 
