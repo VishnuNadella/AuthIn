@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1094781464620",
+    "project_id": "authin-c6b4f",
+    "storage_bucket": "authin-c6b4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094781464620:android:61f146d38c9af5a540e189",
+        "android_client_info": {
+          "package_name": "com.example.authin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094781464620-mbel1qv4orkf4iuaku3mkkn16thpjmsp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu9JQjDkw5y_E7OLDOZQCI38S0tWOpnF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094781464620-mbel1qv4orkf4iuaku3mkkn16thpjmsp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
